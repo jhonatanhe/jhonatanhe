@@ -1,6 +1,7 @@
 ### Olá 👋 Meu nome é Jhonatanhe
 🚜 Não estou trabalhando
 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--
 **jhonatanhe/jhonatanhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
