@@ -7,6 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭  nÃ estou  trabalhando
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - 🌱 I’m currently learning ...l
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
